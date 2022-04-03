@@ -78,7 +78,7 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br
-<img alt="WP Reliable Cookie Bar logo" src="https://user-images.githubusercontent.com/75235402/161443841-93679e24-ade3-46fd-813b-1bc5472b339e.JPG" height="100" width="100" align="right">
+
 <br>
 
 ### ii)Grey image
