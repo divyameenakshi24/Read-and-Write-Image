@@ -80,9 +80,10 @@ cv2.waitKey(0)
 <br>
 ![img](https://user-images.githubusercontent.com/75235402/161443723-c96c3cc8-b452-4f92-bcd8-5b425d74b14f.JPG)
 
-
 <br>
+
 ### ii)Grey image
+
 <br>
 ![img 2](https://user-images.githubusercontent.com/75235402/161443841-93679e24-ade3-46fd-813b-1bc5472b339e.JPG)
 
@@ -105,10 +106,14 @@ cv2.waitKey(0)
 
 ### v)Access rows and columns
 <br>
+![img 5](https://user-images.githubusercontent.com/75235402/161444276-213d35dd-5878-418d-9fbc-fae19b96406f.JPG)
+
 <br>
 
 ### vi)Cut and paste portion of image
 <br>
+![img 6](https://user-images.githubusercontent.com/75235402/161444289-f23bbe4b-de46-4413-a879-f53069eb1644.JPG)
+
 <br>
 
 ## Result:
