@@ -19,34 +19,55 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: A.Divya Meenakshi
+### Register Number: 212220230014
 i) #To Read,display the image
 ```
   import cv2
+  import random
+  col=cv2.imread("cute.jpg",1)
+  cv2.imshow("col",col)
+  cv2.waitKey(0)
 
 ```
-ii) #To write the image
+ii)GREY IMAGE
+```
+gray=cv2.imread("cute.jpg",0)
+cv2.imshow("gray",gray)
+cv2.waitKey(0
+```
+iii) #To write the image
 ```
 
+cv2.imwrite("dicon.jpg",gray)
+
+```
+iv) #Find the shape of the Image
+```
+print(col.shape)
 
 
 ```
-iii) #Find the shape of the Image
-```python3
+v) #To access rows and columns
+
+```
+import random
+for i in range(100):
+    for j in range(col.shape[1]):
+        col[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
+cv2.imshow("col",col)
+cv2.waitKey(0)
 
 
 
 ```
-iv) #To access rows and columns
-
-```python3
-
-
-
+vi) #To cut and paste portion of image
 ```
-v) #To cut and paste portion of image
-```python3
+color=cv2.imread("fates.jpg",1)
+tag=color[300:400,300:400]
+color[50:150,50:150]=tag
+cv2.imshow("color",color)
+cv2.waitKey(0)
 
 
 
@@ -57,6 +78,7 @@ v) #To cut and paste portion of image
 ### i) Read and display the image
 
 <br>
+
 <br>
 
 ### ii)Write the image
