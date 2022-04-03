@@ -78,7 +78,7 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br
-
+https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%202.JPG
 <br>
 
 ### ii)Grey image
