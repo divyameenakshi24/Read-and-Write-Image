@@ -78,19 +78,22 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%202.JPG
+![img](https://user-images.githubusercontent.com/75235402/161681333-c665fd76-73ef-4456-ae5b-c8bca28120c7.JPG)
+
 <br>
 
 ### ii)Grey image
 
 <br>
-https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%202.JPG
+![img 2](https://user-images.githubusercontent.com/75235402/161681386-bab48132-0e20-4c43-b45c-85ab68e28058.JPG)
+
 <br>
 
 ### iii)Write the image
 
 <br>
-https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%203.JPG
+
+![img 3](https://user-images.githubusercontent.com/75235402/161681559-57e14292-0852-4832-8fc6-2330f16fd441.JPG)
 
 
 <br>
@@ -98,19 +101,22 @@ https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%203.JPG
 ### iv)Shape of the Image
 
 <br>
-https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%204.JPG
+![img 4](https://user-images.githubusercontent.com/75235402/161681585-6984402b-b9f0-46df-9ee9-2d46d8d9a493.JPG)
+
 
 <br>
 
 ### v)Access rows and columns
 <br>
-https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%205.JPG
+![img 5](https://user-images.githubusercontent.com/75235402/161681650-bd5ae221-f9f3-4eda-9389-1a798e6823d4.JPG)
+
 
 <br>
 
 ### vi)Cut and paste portion of image
 <br>
-https://github.com/divyameenakshi24/Read-and-Write-Image/blob/main/img%206.JPG
+![img 6](https://user-images.githubusercontent.com/75235402/161681662-9bc4c947-7673-497d-a24d-a3a83f25e7aa.JPG)
+
 
 <br>
 
