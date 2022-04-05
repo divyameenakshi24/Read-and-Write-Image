@@ -31,6 +31,7 @@ i) #To Read,display the image
 
 ```
 ii)GREY IMAGE
+
 ```
 gray=cv2.imread("cute.jpg",0)
 cv2.imshow("gray",gray)
