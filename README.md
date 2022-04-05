@@ -117,8 +117,7 @@ cv2.waitKey(0)
 <br>
 ![img 6](https://user-images.githubusercontent.com/75235402/161681662-9bc4c947-7673-497d-a24d-a3a83f25e7aa.JPG)
 
-
-<br>,
+<br>
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
