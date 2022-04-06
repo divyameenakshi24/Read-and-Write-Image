@@ -79,22 +79,25 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-![img](https://user-images.githubusercontent.com/75235402/161681333-c665fd76-73ef-4456-ae5b-c8bca28120c7.JPG)
+
+![img](https://user-images.githubusercontent.com/75235402/161933216-c7cf4320-d951-4400-8691-66df2705ec2f.jpg)
 
 <br>
 
 ### ii)Grey image
 
 <br>
-![img 2](https://user-images.githubusercontent.com/75235402/161681386-bab48132-0e20-4c43-b45c-85ab68e28058.JPG)
 
+![img 2](https://user-images.githubusercontent.com/75235402/161933284-efdd65dd-64ad-4034-b462-750b10328502.jpg)
 <br>
+
 
 ### iii)Write the image
 
 <br>
 
-![img 3](https://user-images.githubusercontent.com/75235402/161681559-57e14292-0852-4832-8fc6-2330f16fd441.JPG)
+![img 3](https://user-images.githubusercontent.com/75235402/161933697-08307719-4681-4421-93b1-3d12ddc05656.jpg)
+
 
 
 <br>
@@ -102,21 +105,23 @@ cv2.waitKey(0)
 ### iv)Shape of the Image
 
 <br>
-![img 4](https://user-images.githubusercontent.com/75235402/161681585-6984402b-b9f0-46df-9ee9-2d46d8d9a493.JPG)
+![img 4](https://user-images.githubusercontent.com/75235402/161933757-f6c842c1-9997-480d-91ed-6c32f7261783.jpg)
 
 
 <br>
 
 ### v)Access rows and columns
 <br>
-![img 5](https://user-images.githubusercontent.com/75235402/161681650-bd5ae221-f9f3-4eda-9389-1a798e6823d4.JPG)
 
+
+![img 5](https://user-images.githubusercontent.com/75235402/161933811-ddc0c90a-91f8-4e72-80a9-d590d20dccc5.jpg)
 
 <br>
 
 ### vi)Cut and paste portion of image
 <br>
-![img 6](https://user-images.githubusercontent.com/75235402/161681662-9bc4c947-7673-497d-a24d-a3a83f25e7aa.JPG)
+![img 6](https://user-images.githubusercontent.com/75235402/161933921-762e90e2-e9fc-4ed5-9b0c-ffbc084663c0.jpg)
+
 
 <br>
 
