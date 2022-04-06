@@ -78,52 +78,40 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-<br>
 
 ![img](https://user-images.githubusercontent.com/75235402/161933216-c7cf4320-d951-4400-8691-66df2705ec2f.jpg)
 
-<br>
 
 ### ii)Grey image
 
-<br>
 
 ![img 2](https://user-images.githubusercontent.com/75235402/161933284-efdd65dd-64ad-4034-b462-750b10328502.jpg)
-<br>
 
 
 ### iii)Write the image
-
-<br>
 
 ![img 3](https://user-images.githubusercontent.com/75235402/161933697-08307719-4681-4421-93b1-3d12ddc05656.jpg)
 
 
 
-<br>
-
 ### iv)Shape of the Image
 
-<br>
-![img 4](https://user-images.githubusercontent.com/75235402/161933757-f6c842c1-9997-480d-91ed-6c32f7261783.jpg)
+![saa](https://user-images.githubusercontent.com/75235402/161935193-30fa38ea-0157-49a1-89ed-bbc90da4f3fa.jpg)
 
 
-<br>
+
+
 
 ### v)Access rows and columns
-<br>
 
 
 ![img 5](https://user-images.githubusercontent.com/75235402/161933811-ddc0c90a-91f8-4e72-80a9-d590d20dccc5.jpg)
 
-<br>
 
 ### vi)Cut and paste portion of image
-<br>
-![img 6](https://user-images.githubusercontent.com/75235402/161933921-762e90e2-e9fc-4ed5-9b0c-ffbc084663c0.jpg)
+![img 6](https://user-images.githubusercontent.com/75235402/161935458-eb2b46eb-537b-4a5e-9db6-69cfebabe781.jpg)
 
 
-<br>
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
