@@ -116,4 +116,4 @@ cv2.waitKey(0)
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
-
+ 
